@@ -1,5 +1,5 @@
 ## Perfil para armazenar projetos do alura
-## A linguagem que está sendo utilizada é HTML,CSS e JavaScript
+# A linguagem que está sendo utilizada é HTML,CSS e JavaScript
 
 ## Projetos Principais 🚀
 - [Pong](https://github.com/RyanDias24/js-pong)
